@@ -22,3 +22,9 @@
     path = Glitter/Vendor/bullet
     url = https://github.com/bulletphysics/bullet3.git
     branch = master
+[submodule "Glitter/Vendor/freealut"]
+	path = Glitter/Vendor/freealut
+	url = https://github.com/vancegroup/freealut.git
+[submodule "Glitter/Vendor/openal-soft"]
+	path = Glitter/Vendor/openal-soft
+	url = https://github.com/kcat/openal-soft.git
