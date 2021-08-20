@@ -24,7 +24,7 @@
     branch = master
 [submodule "Glitter/Vendor/freealut"]
 	path = Glitter/Vendor/freealut
-	url = https://github.com/vancegroup/freealut.git
+	url = https://github.com/TwistedBlizzard/freealut.git
 [submodule "Glitter/Vendor/openal-soft"]
 	path = Glitter/Vendor/openal-soft
 	url = https://github.com/kcat/openal-soft.git
